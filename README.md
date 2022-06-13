@@ -16,7 +16,7 @@ The maximum width of the layer that will contain the entire layout will be 1200p
 
 ---
 
-## Level 1 :star:
+## Level 1
 
 ---
 
