@@ -1,3 +1,5 @@
+# Exercise 1
+
 In this practice you will have to make a Layout that must work both in
 desktop, mobile and tablet.
 
@@ -35,10 +37,3 @@ Ad-1 and Ad-2 = yellowlight #ffe380
 
 Footer = black #000000
 Text = ocher #e4a434
-
-
-
-
-
-
-# Wireframe
