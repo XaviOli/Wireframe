@@ -1,7 +1,5 @@
 # Wireframe
 
----
-
 ## Description
 
 In this practice you will have to make a Layout that must work both in desktop, mobile and tablet.
