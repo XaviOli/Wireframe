@@ -1,0 +1,121 @@
+/* Universal
+   Selector 
+   & Box-sizing */
+
+* {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    flex-flow: column nowrap;
+}
+
+/* Parent Element */
+
+.flex-container > header {
+    background-color: #000000;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.menu {
+    background-color: #27394e;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+/* Child Elements */
+
+.item-1 {
+    background-color: #ea584b;
+    flex: 1 1 auto;
+}
+
+.item-2 {
+    background-color: #ea584b;
+    flex: 5 1 auto;
+}
+
+.item-3 {
+    background-color: #ea584b;
+    flex: 1 1 auto;
+}
+
+/* Parent Element */
+
+.container {
+    background-color: #f0763a;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+/* Child Elements */
+
+.item-4 {
+    background-color: #ffcc5e;
+    flex: 1 1 auto;
+}
+
+/* Parent Element */
+
+.main {
+    background-color: #000000;
+    display: flex;
+}
+
+.articles {
+    background-color: #44465e;
+    flex: 2 1 auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+/* Child Elements */
+
+.article {
+    background: #1664a4;
+    flex: 1 1 40%;
+}
+
+.nav {
+    background-color: #6399bb;
+    flex: 1 1 100%;
+}
+
+.aside {
+    background-color: #f94c47;
+    flex: 1 1 auto;
+}
+
+.ad-1 {
+    background-color: #ffe380;
+}
+
+.ad-2 {
+    background-color: #ffe380;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.text {
+    background-color: #e4a434;
+}
+
+/* Tablet device */
+
+@media all and (max-width: 750px) {
+    .main {
+        flex-direction: column;
+        background-color: #fff734;
+    }
+}
+
