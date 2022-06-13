@@ -27,16 +27,16 @@ The maximum width of the layer that will contain the entire layout will be 1200p
 With Photoshop tool I get a hexadecimal colour is specified with #RRGGBB
 Background = white #ffffff
 
-Header = black #000000
+- Header = black #000000
 
-Menu = greyInt #27394e item-1, item-2 and item-3 = orange1 #ea584b
+- Menu = greyInt #27394e item-1, item-2 and item-3 = orange1 #ea584b
 
-Container = orange2 #f0763a item-4 = yellowold #ffcc5e
+- Container = orange2 #f0763a item-4 = yellowold #ffcc5e
 
-Body = black #000000
+- Body = black #000000
 
-Main = black #000000 Articles = grey #44465e Article = blueSea #1664a4 Nav = #6399bb
+- Main = black #000000 Articles = grey #44465e Article = blueSea #1664a4 Nav = #6399bb
 
-Aside = orangelight #f94c47 Ad-1 and Ad-2 = yellowlight #ffe380
+- Aside = orangelight #f94c47 Ad-1 and Ad-2 = yellowlight #ffe380
 
-Footer = black #000000 Text = ocher #e4a434
+- Footer = black #000000 Text = ocher #e4a434
