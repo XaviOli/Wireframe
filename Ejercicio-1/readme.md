@@ -5,13 +5,13 @@ From the wireframe that we provide you in .png format, you will have to make des
 
 The chosen colors are indifferent, but it is very important that you do the structure of boxes that we indicate.
 
-IMPORTANT
+**IMPORTANT**
 
 The maximum width of the layer that will contain the entire layout will be 1200px (max-width:1200px).
 
-EXECUTION PROCESS
+**EXECUTION PROCESS**
 
-1) With Photoshop tool I get a hexadecimal colour is specified with #RRGGBB
+1) With Photoshop tool I get a **hexadecimal colour** is specified with #RRGGBB
 
 Background = white #ffffff
 
