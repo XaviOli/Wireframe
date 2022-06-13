@@ -8,7 +8,7 @@ From the wireframe that we provide you in .png format, you will have to make des
 
 The chosen colors are indifferent, but it is very important that you do the structure of boxes that we indicate.
 
-<b>IMPORTANT</b>
+**IMPORTANT**
 
 The maximum width of the layer that will contain the entire layout will be 1200px (max-width:1200px).
 
@@ -18,7 +18,7 @@ The maximum width of the layer that will contain the entire layout will be 1200p
 
 ### EXECUTION PROCESS
 
-With Photoshop tool I get a <b>hexadecimal colour</b> is specified with #RRGGBB
+With Photoshop tool I get a **hexadecimal colour** is specified with #RRGGBB
 Background = white #ffffff
 
 - Header = black #000000
