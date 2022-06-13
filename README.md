@@ -40,5 +40,3 @@ Background = white #ffffff
 - Aside = orangelight #f94c47 Ad-1 and Ad-2 = yellowlight #ffe380
 
 - Footer = black #000000 Text = ocher #e4a434
-
-![project screenshot ex_1](./assets/screenshot.png)
