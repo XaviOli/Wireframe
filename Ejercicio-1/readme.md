@@ -11,7 +11,7 @@ The maximum width of the layer that will contain the entire layout will be 1200p
 
 **EXECUTION PROCESS**
 
-1) With Photoshop tool I get a **hexadecimal colour** is specified with #RRGGBB
+- With Photoshop tool I get a **hexadecimal colour** is specified with #RRGGBB
 
 Background = white #ffffff
 
